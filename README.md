@@ -1,8 +1,8 @@
 ### Links para alguns de meus projetos: 
-## React
-# Movie app: https://ericobis.github.io/react-movie-app/
-# E-commerce app: https://ericobis.github.io/react-ecommerce/
-## JS
+# React
+## Movie app: https://ericobis.github.io/react-movie-app/
+## E-commerce app: https://ericobis.github.io/react-ecommerce/
+# JS
 # Simple calculator: https://ericobis.github.io/simple-calculator/
 
 <!--
