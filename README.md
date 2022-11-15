@@ -1,4 +1,9 @@
-### Hi there 👋
+### Links para alguns de meus projetos: 
+##React
+#Movie app: https://ericobis.github.io/react-movie-app/
+#E-commerce app: https://ericobis.github.io/react-ecommerce/
+##JS
+#Simple calculator: https://ericobis.github.io/simple-calculator/
 
 <!--
 **EricoBis/EricoBis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
