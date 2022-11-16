@@ -12,10 +12,10 @@
  </div>
 
 ### Github Pages: 
-#### React
+> React
 ##### Movie app: https://ericobis.github.io/react-movie-app/
 ##### E-commerce app: https://ericobis.github.io/react-ecommerce/
-#### JS / HTML / CSS
+> JS / HTML / CSS
 ##### Simple calculator: https://ericobis.github.io/simple-calculator/
 
 
