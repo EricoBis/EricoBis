@@ -1,9 +1,19 @@
-### Links para alguns de meus projetos: 
-## React
-### Movie app: https://ericobis.github.io/react-movie-app/
-### E-commerce app: https://ericobis.github.io/react-ecommerce/
-## JS / HTML / CSS
-### Simple calculator: https://ericobis.github.io/simple-calculator/
+### <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Main Skills</b>
+https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black
+https://img.shields.io/badge/Java-black?style=for-the-badge&logo=java&logoColor=red
+https://img.shields.io/badge/HTML5-black?style=for-the-badge&logo=html5&logoColor=E34F26
+https://img.shields.io/badge/CSS3-black?style=for-the-badge&logo=css3&logoColor=1572B6
+https://img.shields.io/badge/TypeScript-black?style=for-the-badge&logo=typescript&logoColor=007ACC
+https://img.shields.io/badge/Node.js-black?style=for-the-badge&logo=node.js&logoColor=43853D
+https://img.shields.io/badge/React-black?style=for-the-badge&logo=react&logoColor=20232A
+
+#### Links para alguns de meus projetos: 
+### React
+#### Movie app: https://ericobis.github.io/react-movie-app/
+#### E-commerce app: https://ericobis.github.io/react-ecommerce/
+### JS / HTML / CSS
+#### Simple calculator: https://ericobis.github.io/simple-calculator/
+
 
 <!--
 **EricoBis/EricoBis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
