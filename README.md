@@ -11,12 +11,12 @@
  <img src = "https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=61DAFB&labelColor=282828"  alt = "React" />
  </div>
 
-#### Github Pages: 
-### React
-#### Movie app: https://ericobis.github.io/react-movie-app/
-#### E-commerce app: https://ericobis.github.io/react-ecommerce/
-### JS / HTML / CSS
-#### Simple calculator: https://ericobis.github.io/simple-calculator/
+### Github Pages: 
+#### React
+##### Movie app: https://ericobis.github.io/react-movie-app/
+##### E-commerce app: https://ericobis.github.io/react-ecommerce/
+#### JS / HTML / CSS
+##### Simple calculator: https://ericobis.github.io/simple-calculator/
 
 
 <!--
