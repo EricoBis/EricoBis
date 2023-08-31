@@ -3,6 +3,7 @@
 ##  Olá, meu nome é <strong>Érico!</strong>
 > Atualmente estou focando meus estudos na área de Desenvolvimento Web, desenvolvendo alguns projetos em React e Spring Boot!
 
+📘 Sou estudante de Ciência da Computação na PUCRS
 ---
 
 ### <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25">  <b>Main Skills</b>
