@@ -30,7 +30,12 @@
 > JS / HTML / CSS
 ##### Simple calculator: https://ericobis.github.io/simple-calculator/
 
+---
 
+<div align="center">
+  
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=0E76A8)](https://www.linkedin.com/in/erico-bis-dos-santos)
+</div> 
 <!--
 **EricoBis/EricoBis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
