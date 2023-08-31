@@ -3,11 +3,14 @@
 ##  Olá, meu nome é <strong>Érico!</strong>
 > Atualmente estou focando meus estudos na área de Desenvolvimento Web, desenvolvendo alguns projetos em React e Spring Boot!
 
-####📘 Estudante de Ciência da Computação na PUCRS
+📘 Estudante de Ciência da Computação na PUCRS
 
-
-### <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25">  <b>Main Skills</b>
+💡 Possuo um grande interesse e entusiasmo em aprender tecnologias novas!
+  
 ---
+  
+## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25">  <b>Main Skills</b>
+
  <div align="left">
  <img src = "https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=black"  alt = "Java" />
  <img src = "https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=F7DF1E&labelColor=282828"  alt = "Javascript" />
@@ -17,6 +20,8 @@
  <img src = "https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=43853D&labelColor=282828"  alt = "Node.js" />
  <img src = "https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=61DAFB&labelColor=282828"  alt = "React" />
  </div>
+
+---
 
 ### 💻 Github Pages: 
 > React
