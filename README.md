@@ -1,7 +1,7 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right">
 
 ##  Olá, meu nome é <strong>Érico!</strong>
-> Atualmente estou focando meus estudos na área de Desenvolvimento Web, desenvolvendo alguns projetos em React e Spring Boot!
+> Atualmente estou focando meus estudos na área de Desenvolvimento Web, desenvolvendo alguns projetos em React, Node.js e Spring Boot!
 
 📘 Estudante de Ciência da Computação na PUCRS
 
